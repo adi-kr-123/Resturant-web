@@ -15,7 +15,7 @@ const Footer = () => (
         <h1 className="app__footer-headtext">Contact Us</h1>
         <p className="p__opensans">Tea Garden, Namkum Ranchi Jharkhand</p>
         <p className="p__opensans">+91 82521-96772</p>
-        <p className="p__opensans">+91 79924-12633</p>
+        <p className="p__opensans">+91 79924-12637</p>
       </div>
 
       <div className="app__footer-links_logo">
@@ -32,9 +32,9 @@ const Footer = () => (
       <div className="app__footer-links_work">
         <h1 className="app__footer-headtext">Working Hours</h1>
         <p className="p__opensans">Monday-Friday:</p>
-        <p className="p__opensans">08:00 am - 12:00 am</p>
+        <p className="p__opensans">09:00 am - 11:00 pm</p>
         <p className="p__opensans">Saturday-Sunday:</p>
-        <p className="p__opensans">07:00 am - 11:00 pm</p>
+        <p className="p__opensans">07:30 am - 01:00 am</p>
       </div>
     </div>
 
